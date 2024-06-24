@@ -4,7 +4,7 @@ body {
               text-align: center;       /* テキスト表示位置指定(中央寄せ)  */
 }
  
-.text{
+text{
               font-size:30px;           /* 文字サイズ指定                  */
               color: #fff;              /* 色指定(白色)                    */
 }
